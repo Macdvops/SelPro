@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SSCS.E_ProjCert.TestNG.NewTest]" verbose="0">
+  <test thread-count="5" name="Command line test(failed)" verbose="0">
+    <classes>
+      <class name="SSCS.E_ProjCert.TestNG.NewTest">
+        <methods>
+          <include name="VerifyAboutUS"/>
+          <include name="launch"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- SSCS.E_ProjCert.TestNG.NewTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [SSCS.E_ProjCert.TestNG.NewTest] -->
